@@ -26,4 +26,11 @@
 
 **The Rise and Rise of Bitcoin**
 > Dan is a 35 year old computer programmer from Pittsburgh who lives a busy life. Along with balancing work, his marriage, and raising his three boys, Dan spends much of his time actively involved in all things Bitcoin. After discovering Bitcoin in 2011, his love and obsession for the crypto-currency was born, revealing an uncharted world of new possibilities for him to explore.
+
 [link](http://bitcoindoc.com/)
+
+**The Internet's Own Boy- The Story of Aaron Swartz **
+> The Internet’s Own Boy follows the story of programming prodigy and information activist Aaron Swartz. From Swartz's help in the development of the basic internet protocol RSS to his co-founding of Reddit, his fingerprints are all over the internet. But it was Swartz's groundbreaking work in social justice and political organizing combined with his aggressive approach to information access that ensnared him in a two-year legal nightmare. It was a battle that ended with the taking of his own life at the age of 26. Aaron's story touched a nerve with people far beyond the online communities in which he was a celebrity. This film is a personal story about what we lose when we are tone deaf about technology and its relationship to our civil liberties.
+
+[link](http://www.takepart.com/internets-own-boy) [video](https://www.youtube.com/watch?v=vXr-2hwTk58)
+> 
