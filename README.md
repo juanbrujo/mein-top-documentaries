@@ -24,3 +24,6 @@
 **The Elegant Universe | Nova**
 > One of the most ambitious and exciting theories ever proposed—one that may be the long-sought "theory of everything," which eluded even Einstein—gets a masterful, lavishly computer-animated explanation from bestselling author-physicist Brian Greene, when NOVA presents the nuts, bolts, and sometimes outright nuttiness of string theory.
 
+**The Rise and Rise of Bitcoin**
+> Dan is a 35 year old computer programmer from Pittsburgh who lives a busy life. Along with balancing work, his marriage, and raising his three boys, Dan spends much of his time actively involved in all things Bitcoin. After discovering Bitcoin in 2011, his love and obsession for the crypto-currency was born, revealing an uncharted world of new possibilities for him to explore.
+[link](http://bitcoindoc.com/)
