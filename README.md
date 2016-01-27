@@ -15,11 +15,17 @@
 **Dangerous Knowledge | BBC**
 > In this one-off documentary, David Malone looks at four brilliant mathematicians - Georg Cantor, Ludwig Boltzmann, Kurt Gödel and Alan Turing - whose genius has profoundly affected us, but which tragically drove them insane and eventually led to them all committing suicide.
 
+[link](http://www.imdb.com/title/tt1520274/) | [video 1](https://vimeo.com/30482156) | [video 2](https://vimeo.com/30641992)
+
 **What Makes Us Human | Channel 4 UK**
 > Evolutionary scientist Dr Armand Leroi explores how and why we became human, but instead of looking for clues in ancient fossils, he seeks out the oddities and mutations around us.
 
+[link](http://www.channel4.com/programmes/what-makes-us-human/episode-guide)
+
 **Fractals - Hunting the Hidden Dimension | Nova**
 > What do movie special effects, the stock market, heart attacks, and the rings of Saturn have in common? They all consist of fractals, irregular repeating shapes that are found in cloud formations and tree limbs, in stalks of broccoli and craggy mountain ranges, and even in the rhythm of the human heart. NOVA takes viewers on a fascinating quest with a group of pioneering mathematicians determined to decipher the rules that govern fractal geometry.
+
+[link](http://www.pbs.org/wgbh/nova/physics/hunting-hidden-dimension.html) | [video](https://www.youtube.com/watch?v=s65DSz78jW4)
 
 **The Elegant Universe | Nova**
 > One of the most ambitious and exciting theories ever proposed—one that may be the long-sought "theory of everything," which eluded even Einstein—gets a masterful, lavishly computer-animated explanation from bestselling author-physicist Brian Greene, when NOVA presents the nuts, bolts, and sometimes outright nuttiness of string theory.
@@ -33,4 +39,4 @@
 > The Internet’s Own Boy follows the story of programming prodigy and information activist Aaron Swartz. From Swartz's help in the development of the basic internet protocol RSS to his co-founding of Reddit, his fingerprints are all over the internet. But it was Swartz's groundbreaking work in social justice and political organizing combined with his aggressive approach to information access that ensnared him in a two-year legal nightmare. It was a battle that ended with the taking of his own life at the age of 26. Aaron's story touched a nerve with people far beyond the online communities in which he was a celebrity. This film is a personal story about what we lose when we are tone deaf about technology and its relationship to our civil liberties.
 
 [link](http://www.takepart.com/internets-own-boy) | [video](https://www.youtube.com/watch?v=vXr-2hwTk58)
-> 
+
