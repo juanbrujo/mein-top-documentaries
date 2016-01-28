@@ -1,16 +1,24 @@
 # My List of Top Documentaries
 
-**The history of Maths | BBC4**
+**The history of Mathematics | BBC4**
 > Series about the history of mathematics
+
+[video](http://www.dnatube.com/video/6534/The-History-of-Mathematics--BBC-doc-part1)
 
 **The Secret Life of Chaos | BBC4**
 > Chaos theory has a bad name, conjuring up images of unpredictable weather, economic crashes and science gone wrong. But there is a fascinating and hidden side to Chaos, one that scientists are only now beginning to understand. It turns out that chaos theory answers a question that mankind has asked for millennia - how did we get here? In this documentary, Professor Jim Al-Khalili sets out to uncover one of the great mysteries of science - how does a universe that starts off as dust end up with intelligent life? How does order emerge from disorder?
 
+[link](http://www.bbc.co.uk/programmes/b00pv1c3) | [video](http://www.dailymotion.com/video/xv1j0n_the-secret-life-of-chaos_shortfilms)
+
 **Ayrton Senna Beyond the Speed of Sound**
 > A documentary on Brazilian Formula One racing driver Ayrton Senna, who won the F1 world championship three times before his death at age 34.
 
+[link](http://www.imdb.com/title/tt1424432/) | [trailer](https://www.youtube.com/watch?v=tvn3GApQf4w)
+
 **La Fisica de João Magueijo | Discovery Channel**
 > João Magueijo (1967, Évora, Portugal) es un cosmólogo y profesor en física teórica en el Imperial College de Londres. Es el principal valedor de la teoría cosmológica sobre la velocidad de la luz variable, que propone que la velocidad de la luz fue mucho mayor en los inicios del Universo. Se presenta como una alternativa a la teoría más aceptada de la inflación cósmica. Según la teoría la velocidad de la luz seguiría siendo el tope máximo al cual un objeto podría acelerar, pero podría tener distintos valores en distintas regiones y épocas del universo.
+
+[video](http://www.dailymotion.com/video/xr8n0v_discovery-la-fisica-de-joao-magueijo_tech)
 
 **Dangerous Knowledge | BBC**
 > In this one-off documentary, David Malone looks at four brilliant mathematicians - Georg Cantor, Ludwig Boltzmann, Kurt Gödel and Alan Turing - whose genius has profoundly affected us, but which tragically drove them insane and eventually led to them all committing suicide.
@@ -29,6 +37,8 @@
 
 **The Elegant Universe | Nova**
 > One of the most ambitious and exciting theories ever proposed—one that may be the long-sought "theory of everything," which eluded even Einstein—gets a masterful, lavishly computer-animated explanation from bestselling author-physicist Brian Greene, when NOVA presents the nuts, bolts, and sometimes outright nuttiness of string theory.
+
+[link](http://www.pbs.org/wgbh/nova/physics/elegant-universe.html)
 
 **The Rise and Rise of Bitcoin**
 > Dan is a 35 year old computer programmer from Pittsburgh who lives a busy life. Along with balancing work, his marriage, and raising his three boys, Dan spends much of his time actively involved in all things Bitcoin. After discovering Bitcoin in 2011, his love and obsession for the crypto-currency was born, revealing an uncharted world of new possibilities for him to explore.
