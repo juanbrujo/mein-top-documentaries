@@ -1,5 +1,12 @@
 # My List of Top Documentaries
 
+**The Salt of the Earth | Wim Wenders**
+> The life and work of photographer Sebastião Salgado, who has spent forty years documenting deprived societies in hidden corners of the world.
+
+[link](http://www.imdb.com/title/tt3674140/) | 
+[trailer](https://www.youtube.com/watch?v=OivMlWXtWpY) | 
+[video](http://peliculasio.com/the-salt-of-the-earth)
+
 **The history of Mathematics | BBC4**
 > Series about the history of mathematics
 
