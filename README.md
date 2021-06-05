@@ -66,3 +66,8 @@
 > Particle Fever explores with awe-inspiring precision, and in remarkably accessible language, how 10,000 scientists and engineers from around the world built what in effect is the ultimate test tube for particle physics.
 
 [video](https://www.youtube.com/watch?v=akCJc7K3DUU)
+
+**Winter on Fire: Ukraine's Fight for Freedom**
+> Over 93 days in Ukraine, what started as peaceful student demonstrations became a violent revolution and full-fledged civil rights movement.
+
+[trailer](https://www.youtube.com/watch?v=RibAQHeDia8)
