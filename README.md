@@ -71,3 +71,8 @@
 > Over 93 days in Ukraine, what started as peaceful student demonstrations became a violent revolution and full-fledged civil rights movement.
 
 [trailer](https://www.youtube.com/watch?v=RibAQHeDia8)
+
+**Searching for Sugar Man**
+> Two South Africans set out to discover what happened to their unlikely musical hero, the mysterious 1970s rock ‘n’ roller, Rodriguez.
+
+[video](https://www.youtube.com/watch?v=CXo7f7YZB4Q)
